@@ -6,8 +6,3 @@ body {
  
 canvas {
     display:block;
-
-  /* CSS style to hide cursor element */ 
-            .newClass { 
-                cursor: none; 
-            } 
