@@ -6,3 +6,12 @@ body {
  
 canvas {
     display:block;
+button {
+    background:transparent;
+    border:none;
+    outline:none;
+    display:block;
+    height:100%;
+    width:100%;
+    cursor:pointer;
+}
