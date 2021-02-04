@@ -56,6 +56,3 @@ for (var i = 0; i < num_particles; i++)
 loop();
 
 //spicy stuff
-document.getElementById('button').addEventListener('click', () => {
-  document.getElementById('fileInput').click()
-})
