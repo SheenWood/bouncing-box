@@ -7,3 +7,7 @@ body {
 canvas {
     display:block;
 }
+input[type=button]{
+ background:transparent;
+ border:0;
+}
